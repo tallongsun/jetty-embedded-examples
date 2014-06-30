@@ -1,5 +1,4 @@
 jetty-embedded-examples
 =======================
 
-mvn clean compile
-mvn eclipse:eclipse
+mvn clean compile<br>mvn eclipse:eclipse
